@@ -1,1 +1,4 @@
-tensorflow
+tensorflow==1.3.*
+
+flask
+gunicorn
